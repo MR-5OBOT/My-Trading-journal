@@ -1,33 +1,17 @@
 {
   "main": {
-    "id": "905bf44d4fc144d4",
+    "id": "8f7219deda4f221a",
     "type": "split",
     "children": [
       {
-        "id": "80fa848f731b2ccf",
+        "id": "63a675fe1e5e7b02",
         "type": "tabs",
-        "dimension": 62.430939226519335,
         "children": [
           {
-            "id": "c00a5432d53f4dd8",
+            "id": "6879feac6b2066b2",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "de31b5b7fb5b3ab0",
-        "type": "tabs",
-        "dimension": 37.569060773480665,
-        "children": [
-          {
-            "id": "b07d6c8392271fe9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           }
@@ -37,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d206d292035d5c21",
+    "id": "97386af826e5ba7e",
     "type": "split",
     "children": [
       {
-        "id": "2e2da99020eb7842",
+        "id": "dc32c1c0f4fb2eb5",
         "type": "tabs",
         "children": [
           {
-            "id": "5316c60ebd24761b",
+            "id": "ef1b9857673376cb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +39,7 @@
             }
           },
           {
-            "id": "993587ddc2f9cc5f",
+            "id": "94656e0bc8afbfe7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +54,7 @@
             }
           },
           {
-            "id": "f384ef15fb390305",
+            "id": "482cebf4acf58ff3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.5
   },
   "right": {
-    "id": "d7021dccd9d23b3c",
+    "id": "b87858587d59fe9c",
     "type": "split",
     "children": [
       {
-        "id": "eb88e9169d3c6b1f",
+        "id": "5211d2e7da910f58",
         "type": "tabs",
         "children": [
           {
-            "id": "98c9fd128ef95334",
+            "id": "2d3a6188d8576fdb",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -108,7 +92,7 @@
             }
           },
           {
-            "id": "d8102b7fb319d85b",
+            "id": "d0caf11b7b5cdc95",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -119,7 +103,7 @@
             }
           },
           {
-            "id": "76c9cfb02bc51ab4",
+            "id": "6b69f61f6a9334b1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,7 +114,7 @@
             }
           },
           {
-            "id": "b77c0ef37ce8f3c8",
+            "id": "7dd0239fc2f80b43",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -148,31 +132,24 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5316c60ebd24761b",
+  "active": "ef1b9857673376cb",
   "lastOpenFiles": [
-    "Note-vault/Learning-Notes/daily-recaps/2023-12-22.md",
-    "Note-vault/Learning-Notes/daily-recaps/2023-12-20.md",
-    "Note-vault/Learning-Notes/daily-recaps/06-12-2023.md",
-    "Note-vault/others/MR50BOT-STATS.xlsx",
-    "Note-vault/Learning-Notes/daily-recaps",
-    "Note-vault/others",
-    "Note-vault/Learning-Notes",
-    "Note-vault",
-    "Welcome.md",
-    "create a link.md",
-    "others/MR50BOT-STATS.xlsx",
-    "others",
-    "Learning-Notes/daily-recaps/2023-12-22.md",
-    "Learning-Notes/daily-recaps/2023-12-20.md",
-    "Learning-Notes/daily-recaps/06-12-2023.md",
-    "Learning-Notes/daily-recaps",
-    "Learning-Notes"
+    "Excalidraw/Drawing 2024-01-01 09.19.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-01 09.19.13.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-01 09.09.28.excalidraw.md",
+    "new-years-day-2024-6753651837110174-law.gif",
+    "daily-recaps/06-12-2023.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "2024-01-01.md",
+    "vimrc support (test).md",
+    "Untitled"
   ]
 }
