@@ -1,0 +1,7 @@
+{
+  "pinned": [
+    "obsidian-git:push",
+    "workspace:export-pdf",
+    "editor:toggle-source"
+  ]
+}
